@@ -1,0 +1,6 @@
+Enterprise #1: HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
+Enterprise #2: 2XNFG-KFHR8-QV3CP-3W6HT-683CH
+
+Keys via Microsoft Insider on twitter @microsoftinside
+Just install, then go to registration option.
+Obviously it doesn't work with MSDN.
